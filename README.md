@@ -13,7 +13,7 @@ if statement
 nested if stt
 while loop
 do while loop
-continut
+continue
 break
 # goto == we or you are discouraged to use goto in programming as it's had to track loops nd progress
 switch statement
