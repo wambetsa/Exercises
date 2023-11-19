@@ -21,3 +21,4 @@ max_pid
 for loop
 arrays - uni-dimensional arrays
 arrays1 - Multi-dimensional arrays
+pointers
