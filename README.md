@@ -22,3 +22,4 @@ for loop
 arrays - uni-dimensional arrays
 arrays1 - Multi-dimensional arrays
 pointers
+pointer to pointer
