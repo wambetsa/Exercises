@@ -17,5 +17,6 @@ int main()
     ip = &age;
     printf("Ptr ip of var is : %x\n", &age);
     printf("Ptr ip of age is : %x\n", ip);
+    printf("Val of age is : %d\n", *ip);
     return 0;
 }
