@@ -43,4 +43,5 @@ arrays1 - Multi-dimensional arrays
 pointers
 pointer to pointer
 
+# strings
 
