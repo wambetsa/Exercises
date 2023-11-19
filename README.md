@@ -44,4 +44,6 @@ pointers
 pointer to pointer
 
 # strings
-
+Strings as arrays of char
+String - Null terminar
+String - functions eg strlen()
