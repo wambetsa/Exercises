@@ -19,3 +19,4 @@ break
 switch statement
 max_pid
 for loop
+arrays - uni-dimensional arrays
