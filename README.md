@@ -101,4 +101,8 @@ parameterized macros eg
 
 if statements within header files
 
+# type casting
+converting from one data type to another
+(double)
+(int)
 
