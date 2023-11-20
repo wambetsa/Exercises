@@ -71,4 +71,6 @@ union Details {
 };
 Similar to struct but stores different data types in same location
 
-# 
+# typedef
+adding typedef to struct
+renaming variable data types using typedef
