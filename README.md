@@ -90,4 +90,5 @@ printf()
 #ifndef
 #endif
 
-parameterized macros
+parameterized macros eg 
+#define max(x,y) ((x) > (y) ? (x) : (y))
