@@ -92,3 +92,11 @@ printf()
 
 parameterized macros eg 
 #define max(x,y) ((x) > (y) ? (x) : (y))
+
+# headerfiles
+#ifndef HEADER_FILE
+#define HEADER_FILE
+
+#endif
+
+
