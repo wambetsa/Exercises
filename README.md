@@ -78,3 +78,6 @@ renaming variable data types using typedef
 # input output
 getchar()
 putchar()
+
+gets()
+puts()
