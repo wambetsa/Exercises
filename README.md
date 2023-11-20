@@ -106,3 +106,10 @@ converting from one data type to another
 (double)
 (int)
 
+# variadic arguments
+double average(int num, ...)
+va_list ap
+va-start(ap, num)
+va_arg(ap, int)
+va_end(ap)
+
