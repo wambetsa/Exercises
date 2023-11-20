@@ -113,3 +113,7 @@ va-start(ap, num)
 va_arg(ap, int)
 va_end(ap)
 
+# command line arguments
+int argc
+char *argc[]
+first element of argument vector is program name eg argv[0]
