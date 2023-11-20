@@ -49,3 +49,26 @@ String - Null terminar
 String - functions eg strlen()
 
 # structures
+struct Name {
+    int id;
+    char name;
+    float etc;
+} Nm;
+
+typedef struct Name {
+    int id;
+    char name;
+    float etc;
+} Name;
+
+holds datasets of different data types
+
+# union
+union Details {
+    int id;
+    int age;
+    int phone;
+};
+Similar to struct but stores different data types in same location
+
+
