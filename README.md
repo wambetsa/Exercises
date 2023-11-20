@@ -85,3 +85,9 @@ puts()
 scanf()
 printf()
 
+# preprocessors
+#define
+#ifndef
+#endif
+
+parameterized macros
