@@ -81,3 +81,7 @@ putchar()
 
 gets()
 puts()
+
+scanf()
+printf()
+
