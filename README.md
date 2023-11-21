@@ -117,3 +117,14 @@ va_end(ap)
 int argc
 char *argc[]
 first element of argument vector is program name eg argv[0]
+
+# memory management
+stdlib.h
+details = malloc(100 * sizeof(char))
+free(detaails)
+
+malloc()
+calloc()
+realloc()
+
+# error handling
